@@ -1,6 +1,5 @@
 [
   {
-    "isAccessibilityElement" : true,
     "frame" : [
       [
         16.967559814453125,
@@ -11,27 +10,44 @@
         193.74229431152344
       ]
     ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
+    "label" : "Navigation",
+    "type" : "container",
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            16.967559814453125,
+            119.93316650390625
+          ],
+          [
+            207.5379638671875,
+            193.74229431152344
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
 
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Закрыть",
-    "value" : "",
-    "type" : "element",
-    "customActions" : {
-      "names" : [
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Закрыть",
+        "value" : "",
+        "type" : "element",
+        "customActions" : {
+          "names" : [
 
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
 
-      ]
-    }
+          ]
+        }
+      }
+    ]
   },
   {
     "isAccessibilityElement" : true,
