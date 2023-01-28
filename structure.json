@@ -1,0 +1,15 @@
+{
+    "languages": {
+        "ru-RU": [
+            {
+                "relativePath": "Ru/Drinkit",
+                "documentName": "Product card",
+                "files": [
+                    "controls.json",
+                    "screen.png",
+                    "QuickView/Preview.png"
+                ]
+            }
+        ]
+    }
+}
