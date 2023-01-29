@@ -6,12 +6,14 @@
                 "documents": [
                     {
                         "relativePath": "Ru/Drinkit",
-                        "documentName": "Product card",
+                        "name": "Product card",
                         "files": [
                             "controls.json",
                             "screen.png",
                             "QuickView/Preview.png"
-                        ]
+                        ],
+                        "fileSize": 2941,
+                        "version": 1
                     }
                 ]
             },
@@ -20,12 +22,14 @@
                 "documents": [
                     {
                         "relativePath": "Ru/Dodo Pizza",
-                        "documentName": "Dodo Product card",
+                        "name": "Dodo Product card",
                         "files": [
                             "controls.json",
                             "screen.png",
                             "QuickView/Preview.png"
-                        ]
+                        ],
+                        "fileSize": 9089,
+                        "version": 1
                     },
                     {
                         "relativePath": "Ru/Dodo Pizza",
@@ -34,7 +38,9 @@
                             "controls.json",
                             "screen.png",
                             "QuickView/Preview.png"
-                        ]
+                        ],
+                        "fileSize": 4591,
+                        "version": 1
                     }
                 ]
             }
@@ -45,12 +51,14 @@
                 "documents": [
                     {
                         "relativePath": "En/DodoPizza",
-                        "documentName": "Dodo Product card",
+                        "name": "Dodo Product card",
                         "files": [
                             "controls.json",
                             "screen.png",
                             "QuickView/Preview.png"
-                        ]
+                        ],
+                        "fileSize": 11779,
+                        "version": 1
                     }
                 ]
             }
