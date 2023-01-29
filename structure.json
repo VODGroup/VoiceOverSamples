@@ -33,7 +33,7 @@
                     },
                     {
                         "relativePath": "Ru/Dodo Pizza",
-                        "documentName": "Menu",
+                        "name": "Menu",
                         "files": [
                             "controls.json",
                             "screen.png",
