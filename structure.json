@@ -1,9 +1,38 @@
 {
     "languages": {
-        "ru-RU": [
+        "ru": [
             {
                 "relativePath": "Ru/Drinkit",
                 "documentName": "Product card",
+                "files": [
+                    "controls.json",
+                    "screen.png",
+                    "QuickView/Preview.png"
+                ]
+            },
+            {
+                "relativePath": "Ru/Dodo Pizza",
+                "documentName": "Dodo Product card",
+                "files": [
+                    "controls.json",
+                    "screen.png",
+                    "QuickView/Preview.png"
+                ]
+            },
+            {
+                "relativePath": "Ru/Dodo Pizza",
+                "documentName": "Menu",
+                "files": [
+                    "controls.json",
+                    "screen.png",
+                    "QuickView/Preview.png"
+                ]
+            }
+        ],
+        "en": [
+            {
+                "relativePath": "En/DodoPizza",
+                "documentName": "Dodo Product card",
                 "files": [
                     "controls.json",
                     "screen.png",
