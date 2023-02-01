@@ -8,9 +8,10 @@
                         "relativePath": "Ru/Drinkit",
                         "name": "Product card",
                         "files": [
-                            "controls.json",
-                            "screen.png",
-                            "QuickView/Preview.png"
+                            "Frame/controls.json",
+                            "Frame/screen.png",
+                            "Frame/info.json",
+                            "QuickView/Preview.heic"
                         ],
                         "fileSize": 2941,
                         "version": 1
@@ -24,22 +25,24 @@
                         "relativePath": "Ru/Dodo Pizza",
                         "name": "Dodo Product card",
                         "files": [
-                            "controls.json",
-                            "screen.png",
-                            "QuickView/Preview.png"
+                            "Frame/controls.json",
+                            "Frame/screen.png",
+                            "Frame/info.json",
+                            "QuickView/Preview.heic"
                         ],
-                        "fileSize": 9089,
+                        "fileSize": 4800,
                         "version": 1
                     },
                     {
                         "relativePath": "Ru/Dodo Pizza",
                         "name": "Menu",
                         "files": [
-                            "controls.json",
-                            "screen.png",
-                            "QuickView/Preview.png"
+                            "Frame/controls.json",
+                            "Frame/screen.png",
+                            "Frame/info.json",
+                            "QuickView/Preview.heic"
                         ],
-                        "fileSize": 4591,
+                        "fileSize": 2400,
                         "version": 1
                     }
                 ]
@@ -53,11 +56,12 @@
                         "relativePath": "En/DodoPizza",
                         "name": "Dodo Product card",
                         "files": [
-                            "controls.json",
-                            "screen.png",
-                            "QuickView/Preview.png"
+                            "Frame/controls.json",
+                            "Frame/screen.png",
+                            "Frame/info.json",
+                            "QuickView/Preview.heic"
                         ],
-                        "fileSize": 11779,
+                        "fileSize": 6100,
                         "version": 1
                     }
                 ]
