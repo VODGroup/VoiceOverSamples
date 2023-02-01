@@ -1,0 +1,530 @@
+[
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            16.967559814453125,
+            119.93316650390625
+          ],
+          [
+            207.5379638671875,
+            193.74229431152344
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Закрыть",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        16.967559814453125,
+        119.93316650390625
+      ],
+      [
+        207.5379638671875,
+        193.74229431152344
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Navigation",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        119.93325805664062
+      ],
+      [
+        1126.7154235839844,
+        906.02000427246094
+      ]
+    ],
+    "trait" : 32,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "NEW",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1083.5093765258789
+      ],
+      [
+        888.76043701171875,
+        138.88023376464844
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Домашняя",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        962.51248168945312,
+        1083.5092849731445
+      ],
+      [
+        212.54067993164062,
+        210.94200897216797
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пищевая ценность",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1222.4691925048828
+      ],
+      [
+        946.6490478515625,
+        71.982101440429688
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Средняя 30 сантиметров, традиционное тесто, 630 грамм",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1294.4512939453125
+      ],
+      [
+        1126.7154235839844,
+        140.29806518554688
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пикантная пепперони, ветчина, маринованные огурчики, томаты, моцарелла, томатный соус",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1434.7493591308594
+      ],
+      [
+        1127.3295593261719,
+        111.62539672851562
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Убрать ингредиенты",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967742919921875,
+        1552.544677734375
+      ],
+      [
+        1126.7154235839844,
+        160.51904296875
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Маленькая",
+        "Средняя",
+        "Большая"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Размер",
+    "value" : "Маленькая",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1721.9368286132812
+      ],
+      [
+        563.35771179199219,
+        153.6375732421875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Традиционное тесто",
+    "value" : "1 из 2",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        600.32894897460938,
+        1721.9368286132812
+      ],
+      [
+        543.35403442382812,
+        153.6375732421875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Тонкое",
+    "value" : "2 из 2",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        1883.5610961914062
+      ],
+      [
+        1126.7154235839844,
+        107.74072265625
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Добавить в пиццу",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        2008.5221557617188
+      ],
+      [
+        386.5748291015625,
+        215.38055419921875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Сырный бортик",
+    "value" : "179 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        409.3385009765625,
+        2008.5221557617188
+      ],
+      [
+        341.97354125976562,
+        215.38055419921875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Сливочная моцарелла",
+    "value" : "59 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        783.55023193359375,
+        2008.5221557617188
+      ],
+      [
+        360.13275146484375,
+        215.38055419921875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Нежный цыпленок",
+    "value" : "49 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        16.967559814453125,
+        2242.5472412109375
+      ],
+      [
+        1126.7154235839844,
+        206.9443359375
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "В корзину за 669 рублей",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "44AE03B4-34AC-45CC-B8B1-EEB939170973",
+          "label" : "",
+          "value" : ""
+        },
+        {
+          "id" : "BC7FD4A1-22AD-4116-AF76-0AEF7F61F764",
+          "label" : "",
+          "value" : ""
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            35.5447998046875,
+            145.44154357910156
+          ],
+          [
+            315.19903564453125,
+            134.36970520019531
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Москва",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            818.95376586914062,
+            145.44154357910156
+          ],
+          [
+            315.19903564453125,
+            134.36970520019531
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Поиск",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            35.5447998046875,
+            299.48423767089844
+          ],
+          [
+            549.30400085449219,
+            145.61054992675781
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "На доставку",
+        "value" : "1 из 2",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            592.26296997070312,
+            299.48423767089844
+          ],
+          [
+            541.88983154296875,
+            145.61054992675781
+          ]
+        ],
+        "trait" : 17,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "В зале",
+        "value" : "2 из 2",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            35.5447998046875,
+            452.66171264648438
+          ],
+          [
+            1098.6080017089844,
+            157.9237060546875
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Указать адрес доставки",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        15.5447998046875,
+        125.44154357910156
+      ],
+      [
+        1138.6080017089844,
+        505.14387512207031
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Адрес",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        34.2249755859375,
+        617.08987426757812
+      ],
+      [
+        1099.9278259277344,
+        409.10659790039062
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Новая сырная закуска",
+        "Где узнавать об акциях Москвы?",
+        "А как платить?",
+        "Мясо по-французски с картофелем"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Истории",
+    "value" : "Новая сырная закуска",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        35.5447998046875,
+        1042.2295532226562
+      ],
+      [
+        1098.6080017089844,
+        488.3865966796875
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Пепперони фреш",
+        "Комбо из трех пицц"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Выгодно и вкусно",
+    "value" : "Пепперони фреш",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        35.5447998046875,
+        1547.8815307617188
+      ],
+      [
+        1098.6080017089844,
+        154.43902587890625
+      ]
+    ],
+    "trait" : 6,
+    "adjustableOptions" : {
+      "options" : [
+        "Пицца",
+        "Комбо",
+        "Закуски",
+        "Десерты",
+        "Напитки",
+        "Другое"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Вид продуктов",
+    "value" : "Пицца",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        35.5447998046875,
+        1716.52587890625
+      ],
+      [
+        1098.6080017089844,
+        549.46435546875
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пепперони, от 380 рублей",
+    "value" : "Соус",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            35.5447998046875,
+            2298.7805786132812
+          ],
+          [
+            231.3394775390625,
+            175.05120849609375
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Меню",
+        "value" : "1 из 4",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            322.12774658203125,
+            2298.7805786132812
+          ],
+          [
+            231.3394775390625,
+            175.05120849609375
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Профиль",
+        "value" : "2 из 4",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            610.91921997070312,
+            2298.7805786132812
+          ],
+          [
+            231.3394775390625,
+            175.05120849609375
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Контакты",
+        "value" : "3 из 4",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            902.81332397460938,
+            2298.7805786132812
+          ],
+          [
+            231.3394775390625,
+            175.05120849609375
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Корзина",
+        "value" : "4 из 4",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        15.5447998046875,
+        2278.7805786132812
+      ],
+      [
+        1138.6080017089844,
+        215.05120849609375
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Вкладки",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  }
+]
