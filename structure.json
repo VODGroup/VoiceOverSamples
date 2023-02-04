@@ -1,71 +1,71 @@
 {
-    "languages": {
-        "En": [
-            {
-                "name": "Dodo Pizza",
-                "documents": [
-                    {
-                        "relativePath": "En/Dodo Pizza",
-                        "name": "Dodo Product card",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 6100,
-                        "version": 1
-                    }
-                ]
-            }
-        ],
-        "Ru": [
-            {
-                "name": "Drinkit",
-                "documents": [
-                    {
-                        "relativePath": "Ru/Drinkit",
-                        "name": "Product card",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 2941,
-                        "version": 1
-                    }
-                ]
-            },
-            {
-                "name": "Dodo Pizza",
-                "documents": [
-                    {
-                        "relativePath": "Ru/Dodo Pizza",
-                        "name": "Dodo Product card",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 4800,
-                        "version": 1
-                    },
-                    {
-                        "relativePath": "Ru/Dodo Pizza",
-                        "name": "Menu",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 2400,
-                        "version": 1
-                    }
-                ]
-            }
+  "languages" : {
+    "En" : [
+      {
+        "name" : "Dodo Pizza",
+        "documents" : [
+          {
+            "fileSize" : 6088825,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Dodo Product card",
+            "relativePath" : "\/Users\/rubanov\/Library\/Developer\/Xcode\/DerivedData\/VoiceOver_Designer-gtfbgsrnjkgtrggpwbyrxvbbpmpg\/Build\/Products\/Debug\/En\/Dodo Pizza"
+          }
         ]
-    }
+      }
+    ],
+    "Ru" : [
+      {
+        "name" : "Drinkit",
+        "documents" : [
+          {
+            "fileSize" : 1579402,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Product card",
+            "relativePath" : "\/Users\/rubanov\/Library\/Developer\/Xcode\/DerivedData\/VoiceOver_Designer-gtfbgsrnjkgtrggpwbyrxvbbpmpg\/Build\/Products\/Debug\/Ru\/Drinkit"
+          }
+        ]
+      },
+      {
+        "name" : "Dodo Pizza",
+        "documents" : [
+          {
+            "fileSize" : 4757649,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Dodo Product card",
+            "relativePath" : "\/Users\/rubanov\/Library\/Developer\/Xcode\/DerivedData\/VoiceOver_Designer-gtfbgsrnjkgtrggpwbyrxvbbpmpg\/Build\/Products\/Debug\/Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2439079,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Menu",
+            "relativePath" : "\/Users\/rubanov\/Library\/Developer\/Xcode\/DerivedData\/VoiceOver_Designer-gtfbgsrnjkgtrggpwbyrxvbbpmpg\/Build\/Products\/Debug\/Ru\/Dodo Pizza"
+          }
+        ]
+      }
+    ]
+  }
 }
