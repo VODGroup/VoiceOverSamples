@@ -1,6 +1,25 @@
 {
     "languages": {
-        "ru": [
+        "En": [
+            {
+                "name": "Dodo Pizza",
+                "documents": [
+                    {
+                        "relativePath": "En/Dodo Pizza",
+                        "name": "Dodo Product card",
+                        "files": [
+                            "Frame/controls.json",
+                            "Frame/screen.png",
+                            "Frame/info.json",
+                            "QuickView/Preview.heic"
+                        ],
+                        "fileSize": 6100,
+                        "version": 1
+                    }
+                ]
+            }
+        ],
+        "Ru": [
             {
                 "name": "Drinkit",
                 "documents": [
@@ -43,25 +62,6 @@
                             "QuickView/Preview.heic"
                         ],
                         "fileSize": 2400,
-                        "version": 1
-                    }
-                ]
-            }
-        ],
-        "en": [
-            {
-                "name": "Dodo Pizza",
-                "documents": [
-                    {
-                        "relativePath": "En/Dodo Pizza",
-                        "name": "Dodo Product card",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 6100,
                         "version": 1
                     }
                 ]
