@@ -46,22 +46,6 @@
                         "version": 1
                     }
                 ]
-            },
-            {
-                "name": "OneTwoTrip",
-                "documents": [
-                    {
-                        "relativePath": "Ru/OneTwoTrip",
-                        "files": [
-                            "Frame/controls.json",
-                            "Frame/screen.png",
-                            "Frame/info.json",
-                            "QuickView/Preview.heic"
-                        ],
-                        "fileSize": 4300,
-                        "version": 1
-                    }
-                ]
             }
         ],
         "en": [
