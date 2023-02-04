@@ -1,25 +1,23 @@
 {
   "languages" : {
-    "En" : [
+    "Ru" : [
       {
-        "name" : "Dodo Pizza",
+        "name" : "OneTwoTrip",
         "documents" : [
           {
-            "fileSize" : 6088825,
+            "fileSize" : 4344423,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
               "Frame\/screen.png",
               "Frame\/info.json",
-              "QuickView\/Preview.heic"
+              "QuickView\/Preview.png"
             ],
-            "name" : "Dodo Product card",
-            "relativePath" : "En\/Dodo Pizza"
+            "name" : "Home",
+            "relativePath" : "Ru\/OneTwoTrip"
           }
         ]
-      }
-    ],
-    "Ru" : [
+      },
       {
         "name" : "Drinkit",
         "documents" : [
@@ -63,6 +61,25 @@
             ],
             "name" : "Menu",
             "relativePath" : "Ru\/Dodo Pizza"
+          }
+        ]
+      }
+    ],
+    "En" : [
+      {
+        "name" : "Dodo Pizza",
+        "documents" : [
+          {
+            "fileSize" : 6088825,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Dodo Product card",
+            "relativePath" : "En\/Dodo Pizza"
           }
         ]
       }
