@@ -19,23 +19,6 @@
         ]
       },
       {
-        "name" : "Drinkit",
-        "documents" : [
-          {
-            "fileSize" : 1579402,
-            "version" : 1,
-            "files" : [
-              "Frame\/controls.json",
-              "Frame\/screen.png",
-              "Frame\/info.json",
-              "QuickView\/Preview.heic"
-            ],
-            "name" : "Product card",
-            "relativePath" : "Ru\/Drinkit"
-          }
-        ]
-      },
-      {
         "name" : "Dodo Pizza",
         "documents" : [
           {
