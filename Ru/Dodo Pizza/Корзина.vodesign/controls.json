@@ -1,0 +1,572 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        292,
+        145
+      ],
+      [
+        600,
+        125
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Корзина",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        40,
+        290
+      ],
+      [
+        1104,
+        123
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "4 товара на 1 267 ₽",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        428
+      ],
+      [
+        1171,
+        482
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Додо Микс",
+    "value" : "719 рублей",
+    "customActions" : {
+      "names" : [
+        "Увеличить количество",
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "2900E836-A2B0-414C-82CC-CBAB79AF863E",
+          "label" : "Описание",
+          "value" : "Средняя 30 сантиметров, традиционное тесто"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        936
+      ],
+      [
+        1171,
+        541
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пицца 25 сантиметров и напиток",
+    "value" : "339 рублей",
+    "customActions" : {
+      "names" : [
+        "Увеличить количество",
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "96DFADF1-8A43-472E-9594-8CCCC0E610DE",
+          "label" : "Пицца",
+          "value" : "Пепперони фреш 25 сантиметров, традиционное тесто"
+        },
+        {
+          "id" : "B7E5EF67-9B93-43FE-8496-6EE4C8B3592A",
+          "label" : "Кофе",
+          "value" : "Капучино"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        1500
+      ],
+      [
+        1171,
+        461
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Додстер",
+    "value" : "169 рублей",
+    "customActions" : {
+      "names" : [
+        "Увеличить количество",
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        1986
+      ],
+      [
+        1171,
+        461
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Барбекю",
+    "value" : "40 рублей",
+    "customActions" : {
+      "names" : [
+        "Увеличить количество",
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        2459
+      ],
+      [
+        1171,
+        541
+      ]
+    ],
+    "trait" : 5,
+    "adjustableOptions" : {
+      "options" : [
+        "Соусы",
+        "Бруслетики, 205 рублей",
+        "Картофель из печи, 199 рублей",
+        "Додстер, 169 рублей"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Добавить к заказу?",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        3020
+      ],
+      [
+        1171,
+        210
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Ввести промокод",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        3268
+      ],
+      [
+        1171,
+        107
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "3 товара",
+    "value" : "1227 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        3385
+      ],
+      [
+        1171,
+        107
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "1 соус",
+    "value" : "40 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        3509
+      ],
+      [
+        1171,
+        107
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Начислим додокоинов",
+    "value" : "+63 додокоина",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        3642
+      ],
+      [
+        1171,
+        190
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Оформить заказ на 1267 рублей",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            902,
+            3860
+          ],
+          [
+            242,
+            182
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Корзина",
+        "value" : "4 объекта",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            608,
+            3860
+          ],
+          [
+            242,
+            182
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Контакты",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            318,
+            3860
+          ],
+          [
+            242,
+            182
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Профиль",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            31,
+            3860
+          ],
+          [
+            242,
+            182
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Меню",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        11,
+        3840
+      ],
+      [
+        1153,
+        222
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Панель вкладок",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  }
+]

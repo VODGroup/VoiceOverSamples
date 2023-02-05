@@ -1,11 +1,30 @@
 {
   "languages" : {
+    "En" : [
+      {
+        "name" : "Dodo Pizza",
+        "documents" : [
+          {
+            "fileSize" : 6088825,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Dodo Product card",
+            "relativePath" : "En\/Dodo Pizza"
+          }
+        ]
+      }
+    ],
     "Ru" : [
       {
         "name" : "OneTwoTrip",
         "documents" : [
           {
-            "fileSize" : 4344423,
+            "fileSize" : 2315586,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -39,7 +58,7 @@
         "name" : "Dodo Pizza",
         "documents" : [
           {
-            "fileSize" : 4757649,
+            "fileSize" : 3526933,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -47,11 +66,11 @@
               "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
-            "name" : "Dodo Product card",
+            "name" : "Карточка продукта",
             "relativePath" : "Ru\/Dodo Pizza"
           },
           {
-            "fileSize" : 2439079,
+            "fileSize" : 508853,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -59,18 +78,29 @@
               "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
-            "name" : "Menu",
+            "name" : "Чекаут",
             "relativePath" : "Ru\/Dodo Pizza"
-          }
-        ]
-      }
-    ],
-    "En" : [
-      {
-        "name" : "Dodo Pizza",
-        "documents" : [
+          },
           {
-            "fileSize" : 6088825,
+            "fileSize" : 1180968,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Корзина",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 3929031,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Пицца из половинок",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2587752,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -78,8 +108,50 @@
               "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
-            "name" : "Dodo Product card",
-            "relativePath" : "En\/Dodo Pizza"
+            "name" : "Конструктор комбо",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 3891487,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Меню",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2077367,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Карточка комбо",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 1013107,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Профиль",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 3126664,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Допродажа в карточке",
+            "relativePath" : "Ru\/Dodo Pizza"
           }
         ]
       }

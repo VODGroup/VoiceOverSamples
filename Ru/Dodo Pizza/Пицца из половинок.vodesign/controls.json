@@ -1,0 +1,230 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        3,
+        126
+      ],
+      [
+        140,
+        149
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "В меню",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        147,
+        126
+      ],
+      [
+        936,
+        149
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пицца из половинок, большая 35 сантиметров",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        930,
+        1908
+      ],
+      [
+        246,
+        241
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Перемешать",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        2.9998929771360281,
+        277
+      ],
+      [
+        586,
+        1872
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Ветчина и сыр, 370 рублей",
+        "Аррива! 410 рублей",
+        "Додо, 535 рублей",
+        "Мясная 470 рублей",
+        "Сырный цыпленок 470 рублей",
+        "Цыпленок барбекю, 535 рублей",
+        "Гавайская, 435 рублей",
+        "Пепперони, 435 рублей",
+        "Маргарита, 385 рублей",
+        "Сырная 335 рублей",
+        "Цыпленок ранч, 535 рублей",
+        "Вечтина и грибы, 385 рублей",
+        "Двойная пепперони, 470 рублей",
+        "Четыре сыра, 470 рублей",
+        "Пепперони фреш, 335 рублей"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Левая половинка",
+    "value" : "Ветчина и сыр, 370 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        590,
+        277
+      ],
+      [
+        586,
+        1872
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Ветчина и сыр, 370 рублей",
+        "Аррива! 410 рублей",
+        "Додо, 535 рублей",
+        "Мясная 470 рублей",
+        "Сырный цыпленок 470 рублей",
+        "Цыпленок барбекю, 535 рублей",
+        "Гавайская, 435 рублей",
+        "Пепперони, 435 рублей",
+        "Маргарита, 385 рублей",
+        "Сырная 335 рублей",
+        "Цыпленок ранч, 535 рублей",
+        "Вечтина и грибы, 385 рублей",
+        "Двойная пепперони, 470 рублей",
+        "Четыре сыра, 470 рублей",
+        "Пепперони фреш, 335 рублей"
+      ],
+      "currentIndex" : 1,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Правая половинка",
+    "value" : "Аррива! 410 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        3,
+        2160
+      ],
+      [
+        1173,
+        308
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Объединить половинки",
+    "value" : "780 рублей",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]
