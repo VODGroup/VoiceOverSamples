@@ -1,4 +1,4 @@
-# `.vodocument` samples
+# `.vodesign` samples
 
 <img width="912" alt="Screenshot 2023-02-05 at 17 02 03" src="https://user-images.githubusercontent.com/3120680/216817742-b675fc28-e0f1-408e-99eb-23db34606904.png">
 
