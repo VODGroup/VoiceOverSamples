@@ -1,0 +1,379 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        49,
+        256
+      ],
+      [
+        202,
+        65
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Сбросить",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        479,
+        232
+      ],
+      [
+        286,
+        99
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Фильтры",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1,
+        363
+      ],
+      [
+        1247,
+        264
+      ]
+    ],
+    "trait" : 1048576,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Цена с багажом, багаж включён в стоимость",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -5,
+        630
+      ],
+      [
+        1254,
+        164
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Авиакомпания",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isEnumerated" : true,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            311,
+            967
+          ],
+          [
+            311,
+            125
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "1 пересадка",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            49,
+            954
+          ],
+          [
+            235,
+            138
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Прямые",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        1,
+        805
+      ],
+      [
+        1257,
+        327
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Пересадки",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  },
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            49,
+            1227
+          ],
+          [
+            1148,
+            193
+          ]
+        ],
+        "trait" : 0,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Москва",
+        "value" : "00:00 - 23:59",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            1105,
+            1459
+          ],
+          [
+            85,
+            90
+          ]
+        ],
+        "trait" : 4,
+        "adjustableOptions" : {
+          "options" : [
+            "23:59",
+            "23:30"
+          ],
+          "currentIndex" : 0,
+          "isEnumerated" : false
+        },
+        "hint" : "",
+        "label" : "Максимальное время",
+        "value" : "23:59",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            49,
+            1459
+          ],
+          [
+            85,
+            90
+          ]
+        ],
+        "trait" : 4,
+        "adjustableOptions" : {
+          "options" : [
+            "00:00",
+            "00:30",
+            "01:00"
+          ],
+          "currentIndex" : 0,
+          "isEnumerated" : false
+        },
+        "hint" : "",
+        "label" : "Минимальное время",
+        "value" : "00:00",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        28,
+        1207
+      ],
+      [
+        1204,
+        397
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Время отправления",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        48,
+        2374
+      ],
+      [
+        1164,
+        184
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "ПОКАЗАТЬ 1 ПЕРЕЛЁТ",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]
