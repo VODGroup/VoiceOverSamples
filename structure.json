@@ -2,23 +2,6 @@
   "languages" : {
     "Ru" : [
       {
-        "name" : "OneTwoTrip",
-        "documents" : [
-          {
-            "fileSize" : 2315586,
-            "version" : 1,
-            "files" : [
-              "Frame\/controls.json",
-              "Frame\/screen.png",
-              "Frame\/info.json",
-              "QuickView\/Preview.heic"
-            ],
-            "name" : "Home",
-            "relativePath" : "Ru\/OneTwoTrip"
-          }
-        ]
-      },
-      {
         "name" : "Dodo Pizza",
         "documents" : [
           {
@@ -128,6 +111,23 @@
             ],
             "name" : "Допродажа в карточке",
             "relativePath" : "Ru\/Dodo Pizza"
+          }
+        ]
+      },
+      {
+        "name" : "OneTwoTrip",
+        "documents" : [
+          {
+            "fileSize" : 2315586,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Home",
+            "relativePath" : "Ru\/OneTwoTrip"
           }
         ]
       }
