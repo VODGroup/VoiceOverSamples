@@ -89,6 +89,18 @@
             "relativePath" : "Ru\/Dodo Pizza"
           },
           {
+            "fileSize" : 1154297,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Статус заказа",
+            "relativePath" : "Ru\/Dodo Pizza"
+          },
+          {
             "fileSize" : 1013107,
             "version" : 1,
             "files" : [
@@ -145,7 +157,7 @@
               "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
-            "name" : "Dodo Product card",
+            "name" : "Product card",
             "relativePath" : "En\/Dodo Pizza"
           }
         ]
