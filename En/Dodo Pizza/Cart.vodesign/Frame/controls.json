@@ -1,0 +1,504 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        445,
+        149
+      ],
+      [
+        294,
+        119
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Basket",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        44,
+        311
+      ],
+      [
+        1078,
+        111
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "3 items at the price of £23.97",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -4,
+        449
+      ],
+      [
+        1173,
+        460
+      ]
+    ],
+    "trait" : 20,
+    "adjustableOptions" : {
+      "options" : [
+        "1, £10",
+        "2, £20",
+        "3, £30"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Margherita, Medium, original crust",
+    "value" : "Medium, original crust £ Any pizzas & a side for £12.99. Collection only",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "2BEF4772-41D4-451B-B1D7-8A73ED731AF3",
+          "label" : "Discount",
+          "value" : "£2.99 out of 12.99"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -4,
+        943
+      ],
+      [
+        1173,
+        458
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "£2.99",
+        "£5.98",
+        "§ Any pizzas & a side for £12.99. Collection only"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Rosti Bites (veg), 250 g",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "CAEFE388-F68A-4F84-8D9E-41BC7507C51F",
+          "label" : "Discount",
+          "value" : "£1.5 out of 4.49"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -3,
+        1422
+      ],
+      [
+        1172,
+        470
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "1, £6.49",
+        "2, £12.98"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Classic wings",
+    "value" : "1, £6.49",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        181,
+        1968
+      ],
+      [
+        804,
+        150
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Apply promo-code",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        2,
+        2168
+      ],
+      [
+        1176,
+        531
+      ]
+    ],
+    "trait" : 5,
+    "adjustableOptions" : {
+      "options" : [
+        "Dips",
+        "Garlic Bread, £5.49",
+        "Coca-Cola, £2.49"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Add to your order?",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -1,
+        2706
+      ],
+      [
+        1167,
+        104
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "3 items £23.97",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -1,
+        2827
+      ],
+      [
+        1167,
+        104
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Discounts -£4.49",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        44,
+        2979
+      ],
+      [
+        1078,
+        156
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Proceed to Checkout for £19.48",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            923,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Basket",
+        "value" : "3",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            626,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Contact",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            332,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Profile",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            43.999834436702031,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Menu",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        23.999834436702031,
+        3161
+      ],
+      [
+        1130.000165563298,
+        217
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Tabs",
+    "type" : "container",
+    "isTabTrait" : true,
+    "isModal" : false
+  }
+]

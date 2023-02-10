@@ -1,5 +1,51 @@
 {
   "languages" : {
+    "En" : [
+      {
+        "name" : "Dodo Pizza",
+        "documents" : [
+          {
+            "fileSize" : 877163,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Cart",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2430948,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Product card",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 1526056,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Combo builder",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2569201,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Menu",
+            "relativePath" : "En\/Dodo Pizza"
+          }
+        ]
+      }
+    ],
     "Ru" : [
       {
         "name" : "Dodo Pizza",
@@ -65,7 +111,7 @@
             "relativePath" : "Ru\/Dodo Pizza"
           },
           {
-            "fileSize" : 3891487,
+            "fileSize" : 3892397,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -140,25 +186,6 @@
             ],
             "name" : "Home",
             "relativePath" : "Ru\/OneTwoTrip"
-          }
-        ]
-      }
-    ],
-    "En" : [
-      {
-        "name" : "Dodo Pizza",
-        "documents" : [
-          {
-            "fileSize" : 6088825,
-            "version" : 1,
-            "files" : [
-              "Frame\/controls.json",
-              "Frame\/screen.png",
-              "Frame\/info.json",
-              "QuickView\/Preview.heic"
-            ],
-            "name" : "Product card",
-            "relativePath" : "En\/Dodo Pizza"
           }
         ]
       }

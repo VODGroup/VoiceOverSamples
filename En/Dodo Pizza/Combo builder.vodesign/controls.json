@@ -1,0 +1,104 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        44,
+        104
+      ],
+      [
+        302,
+        637
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Chicken BBQ, 10 from 20",
+    "value" : "Extra chicken, mozzarella, bacon, red onions, bbq sauce Small, original crust, 430±50 g",
+    "customActions" : {
+      "names" : [
+        "Close",
+        "Nutrition facts"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -281.00003036931895,
+        104.00003036931889
+      ],
+      [
+        304,
+        637
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Chicken club, 9 from 20",
+    "value" : "Bacon, red onions, mozzarella, extra chicken, creamy sauce. Small, original crust, 430±50 g",
+    "customActions" : {
+      "names" : [
+        "Close",
+        "Nutrition facts"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        366,
+        104
+      ],
+      [
+        306,
+        637
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Veggie hot, 11 from 20",
+    "value" : "Cherry tomatoes, green peppers, red onions, chilli peppers, mushrooms, mozzarella, marinara sauce, sriracha sauce. Small, original crust, 430±50 g",
+    "customActions" : {
+      "names" : [
+        "Close",
+        "Nutrition facts"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]

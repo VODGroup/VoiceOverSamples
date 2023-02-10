@@ -66,124 +66,125 @@
     }
   },
   {
-    "isEnumerated" : false,
-    "elements" : [
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            73,
-            521
-          ],
-          [
-            1024,
-            165
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "улица Ленинская Слобода, 19",
-        "value" : "34 минуты время доставки, бесплатно",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            592,
-            339.00003152599493
-          ],
-          [
-            505,
-            151
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "В зале",
-        "value" : "2 из 2",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            73,
-            339
-          ],
-          [
-            501,
-            151
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "На доставку",
-        "value" : "1 из 2",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      }
-    ],
-    "navigationStyle" : "automatic",
-    "frame" : [
-      [
-        53,
-        319.00003152599493
+      "isEnumerated" : false,
+      "elements" : [
+          {
+              "isAccessibilityElement" : true,
+              "frame" : [
+                  [
+                      73,
+                      521
+                  ],
+                  [
+                      1024,
+                      165
+                  ]
+              ],
+              "trait" : 1,
+              "adjustableOptions" : {
+                  "options" : [
+                      
+                  ],
+                  "isEnumerated" : true
+              },
+              "hint" : "",
+              "label" : "улица Ленинская Слобода, 19",
+              "value" : "34 минуты время доставки, бесплатно",
+              "customActions" : {
+                  "names" : [
+                      
+                  ]
+              },
+              "customDescriptions" : {
+                  "descriptions" : [
+                      
+                  ]
+              }
+          },
+          {
+              "isAccessibilityElement" : true,
+              "frame" : [
+                  [
+                      592,
+                      339.00003152599493
+                  ],
+                  [
+                      505,
+                      151
+                  ]
+              ],
+              "trait" : 1,
+              "adjustableOptions" : {
+                  "options" : [
+                      
+                  ],
+                  "isEnumerated" : true
+              },
+              "hint" : "",
+              "label" : "В зале",
+              "value" : "2 из 2",
+              "customActions" : {
+                  "names" : [
+                      
+                  ]
+              },
+              "customDescriptions" : {
+                  "descriptions" : [
+                      
+                  ]
+              }
+          },
+          {
+              "isAccessibilityElement" : true,
+              "frame" : [
+                  [
+                      73,
+                      339
+                  ],
+                  [
+                      501,
+                      151
+                  ]
+              ],
+              "trait" : 1,
+              "adjustableOptions" : {
+                  "options" : [
+                      
+                  ],
+                  "isEnumerated" : true
+              },
+              "hint" : "",
+              "label" : "На доставку",
+              "value" : "1 из 2",
+              "customActions" : {
+                  "names" : [
+                      
+                  ]
+              },
+              "customDescriptions" : {
+                  "descriptions" : [
+                      
+                  ]
+              }
+          }
       ],
-      [
-        1064,
-        387
-      ]
-    ],
-    "containerType" : "semanticGroup",
-    "label" : "Адрес заказа",
-    "type" : "container",
-    "isTabTrait" : false,
-    "isModal" : false
+      "navigationStyle" : "automatic",
+      "frame" : [
+          [
+              53,
+              319.00003152599493
+          ],
+          [
+              1064,
+              387
+          ]
+      ],
+      "containerType" : "semanticGroup",
+      "label" : "Адрес заказа",
+      "type" : "container",
+      "isTabTrait" : false,
+      "isModal" : false
+      
   },
   {
     "isAccessibilityElement" : true,

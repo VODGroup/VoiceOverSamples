@@ -1,0 +1,492 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        64,
+        152
+      ],
+      [
+        354,
+        142
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Brighton",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        64,
+        321
+      ],
+      [
+        506,
+        167
+      ]
+    ],
+    "trait" : 257,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Delivery",
+    "value" : "1 of 2",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        585,
+        321
+      ],
+      [
+        506,
+        167
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Pick-up",
+    "value" : "2 of 2",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        64,
+        504
+      ],
+      [
+        1027,
+        122
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Enter delivery address >",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        644
+      ],
+      [
+        1167,
+        389
+      ]
+    ],
+    "trait" : 5,
+    "adjustableOptions" : {
+      "options" : [
+        "Buy one get one free",
+        "20% discount for students"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Special offers",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        4.9998353610624235,
+        1045.9999176805313
+      ],
+      [
+        1167,
+        151
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Combo",
+        "Pizza",
+        "Snacks",
+        "Desserts",
+        "Goods"
+      ],
+      "currentIndex" : 1,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Product type",
+    "value" : "Pizza",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        1210
+      ],
+      [
+        1161,
+        482
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Chicken Tikka from £11.80",
+    "value" : "Tikka masala sauce, chicken, yoghurt & mint sauce, chilli pepper, onion red, pepper bell, mozzarella cheese",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        1701
+      ],
+      [
+        1167,
+        458
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Pepperoni Fresh from £10.80",
+    "value" : "Pepperoni, green pepper, mozzarella, marinara sauce",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        2166
+      ],
+      [
+        1167,
+        458
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Cheese & Tomato from f9",
+    "value" : "Marinara sauce, cherry tomatoes, extra mozzarella, oregano",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5.0001646389375765,
+        2632
+      ],
+      [
+        1167,
+        394
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Double Pepperoni from £11.80",
+    "value" : "Double pepperoni, marinara sauce, extra mozzarella",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            912,
+            3025
+          ],
+          [
+            225,
+            178
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Basket",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            619,
+            3025
+          ],
+          [
+            225,
+            178
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Contact",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            328,
+            3025
+          ],
+          [
+            225,
+            178
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Profile",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            34,
+            3025
+          ],
+          [
+            225,
+            178
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Menu",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        14,
+        3005
+      ],
+      [
+        1143,
+        218
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Tabs",
+    "type" : "container",
+    "isTabTrait" : true,
+    "isModal" : false
+  }
+]
