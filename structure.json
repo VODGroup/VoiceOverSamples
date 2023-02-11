@@ -17,18 +17,24 @@
             "relativePath" : "En\/Dodo Pizza"
           },
           {
-            "fileSize" : 2430948,
+            "fileSize" : 2426311,
             "version" : 1,
             "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
             "name" : "Product card",
             "relativePath" : "En\/Dodo Pizza"
           },
           {
-            "fileSize" : 1526056,
+            "fileSize" : 1525060,
             "version" : 1,
             "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
             "name" : "Combo builder",
@@ -38,6 +44,9 @@
             "fileSize" : 2569201,
             "version" : 1,
             "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
             "name" : "Menu",
