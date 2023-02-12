@@ -341,8 +341,41 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            768,
-            2590
+            57,
+            2075
+          ],
+          [
+            344,
+            503
+          ]
+        ],
+        "trait" : 513,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Сырный бортик",
+        "value" : "179 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            413,
+            2075
           ],
           [
             344,
@@ -357,7 +390,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Ветчина",
+        "label" : "Сливочная моцарелла",
         "value" : "79 рублей",
         "customActions" : {
           "names" : [
@@ -374,15 +407,15 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            412,
-            2590
+            768,
+            2075
           ],
           [
             344,
             503
           ]
         ],
-        "trait" : 1,
+        "trait" : 257,
         "adjustableOptions" : {
           "options" : [
 
@@ -390,7 +423,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Пикантная пепперони",
+        "label" : "Чеддер и пармезан",
         "value" : "79 рублей",
         "customActions" : {
           "names" : [
@@ -440,41 +473,8 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            768,
-            2075
-          ],
-          [
-            344,
-            503
-          ]
-        ],
-        "trait" : 257,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Чеддер и пармезан",
-        "value" : "79 рублей",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            413,
-            2075
+            412,
+            2590
           ],
           [
             344,
@@ -489,7 +489,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Сливочная моцарелла",
+        "label" : "Пикантная пепперони",
         "value" : "79 рублей",
         "customActions" : {
           "names" : [
@@ -506,15 +506,15 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            57,
-            2075
+            768,
+            2590
           ],
           [
             344,
             503
           ]
         ],
-        "trait" : 513,
+        "trait" : 1,
         "adjustableOptions" : {
           "options" : [
 
@@ -522,8 +522,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Сырный бортик",
-        "value" : "179 рублей",
+        "label" : "Ветчина",
+        "value" : "79 рублей",
         "customActions" : {
           "names" : [
 
@@ -539,7 +539,7 @@
     "navigationStyle" : "automatic",
     "frame" : [
       [
-        36,
+        35,
         1960
       ],
       [

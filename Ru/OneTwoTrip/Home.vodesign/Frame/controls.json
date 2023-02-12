@@ -473,73 +473,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            306,
-            1084
-          ],
-          [
-            64,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Профиль",
-        "value" : "5 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            230,
-            1084
-          ],
-          [
-            71,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Поддержка",
-        "value" : "4 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            160,
+            6,
             1084
           ],
           [
@@ -547,7 +481,7 @@
             46
           ]
         ],
-        "trait" : 1,
+        "trait" : 257,
         "adjustableOptions" : {
           "options" : [
 
@@ -555,8 +489,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Заказы",
-        "value" : "3 из 5",
+        "label" : "Главная",
+        "value" : "1 из 5",
         "customActions" : {
           "names" : [
 
@@ -605,7 +539,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            6,
+            160,
             1084
           ],
           [
@@ -613,7 +547,7 @@
             46
           ]
         ],
-        "trait" : 257,
+        "trait" : 1,
         "adjustableOptions" : {
           "options" : [
 
@@ -621,8 +555,74 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Главная",
-        "value" : "1 из 5",
+        "label" : "Заказы",
+        "value" : "3 из 5",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            230,
+            1084
+          ],
+          [
+            71,
+            46
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Поддержка",
+        "value" : "4 из 5",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            306,
+            1084
+          ],
+          [
+            64,
+            46
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Профиль",
+        "value" : "5 из 5",
         "customActions" : {
           "names" : [
 
@@ -638,8 +638,8 @@
     "navigationStyle" : "automatic",
     "frame" : [
       [
-        -14,
-        1064
+        -12.00004784750476,
+        1064.0000956950096
       ],
       [
         404,

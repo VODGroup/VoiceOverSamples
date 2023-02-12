@@ -423,40 +423,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            902,
-            3860
-          ],
-          [
-            242,
-            182
-          ]
-        ],
-        "trait" : 257,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Корзина",
-        "value" : "4 объекта",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            608,
+            31,
             3860
           ],
           [
@@ -472,7 +439,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Контакты",
+        "label" : "Меню",
         "value" : "",
         "customActions" : {
           "names" : [
@@ -522,7 +489,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            31,
+            608,
             3860
           ],
           [
@@ -538,8 +505,41 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Меню",
+        "label" : "Контакты",
         "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            902,
+            3860
+          ],
+          [
+            242,
+            182
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Корзина",
+        "value" : "4 объекта",
         "customActions" : {
           "names" : [
 
@@ -555,7 +555,7 @@
     "navigationStyle" : "automatic",
     "frame" : [
       [
-        11,
+        15.999826362588692,
         3840
       ],
       [

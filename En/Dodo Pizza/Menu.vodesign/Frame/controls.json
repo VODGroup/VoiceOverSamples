@@ -343,7 +343,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            912,
+            34.00013830126818,
             3025
           ],
           [
@@ -351,7 +351,7 @@
             178
           ]
         ],
-        "trait" : 1,
+        "trait" : 257,
         "adjustableOptions" : {
           "options" : [
 
@@ -359,40 +359,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Basket",
-        "value" : "",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            619,
-            3025
-          ],
-          [
-            225,
-            178
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Contact",
+        "label" : "Menu",
         "value" : "",
         "customActions" : {
           "names" : [
@@ -442,7 +409,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            34,
+            619,
             3025
           ],
           [
@@ -458,7 +425,40 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Menu",
+        "label" : "Contact",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            912,
+            3025
+          ],
+          [
+            225,
+            178
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Basket",
         "value" : "",
         "customActions" : {
           "names" : [

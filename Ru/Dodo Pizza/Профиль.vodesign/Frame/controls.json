@@ -305,7 +305,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            908,
+            42,
             3159
           ],
           [
@@ -321,40 +321,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Корзина",
-        "value" : "",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            617,
-            3159
-          ],
-          [
-            225,
-            184
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Контакты",
+        "label" : "Меню",
         "value" : "",
         "customActions" : {
           "names" : [
@@ -404,7 +371,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            42,
+            617,
             3159
           ],
           [
@@ -420,7 +387,40 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Меню",
+        "label" : "Контакты",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            908,
+            3159
+          ],
+          [
+            225,
+            184
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Корзина",
         "value" : "",
         "customActions" : {
           "names" : [
@@ -438,7 +438,7 @@
     "frame" : [
       [
         22,
-        3139
+        3138.9997119850727
       ],
       [
         1131,
