@@ -66,132 +66,131 @@
     }
   },
   {
-      "isEnumerated" : false,
-      "elements" : [
-          {
-              "isAccessibilityElement" : true,
-              "frame" : [
-                  [
-                      73,
-                      521
-                  ],
-                  [
-                      1024,
-                      165
-                  ]
-              ],
-              "trait" : 1,
-              "adjustableOptions" : {
-                  "options" : [
-                      
-                  ],
-                  "isEnumerated" : true
-              },
-              "hint" : "",
-              "label" : "улица Ленинская Слобода, 19",
-              "value" : "34 минуты время доставки, бесплатно",
-              "customActions" : {
-                  "names" : [
-                      
-                  ]
-              },
-              "customDescriptions" : {
-                  "descriptions" : [
-                      
-                  ]
-              }
-          },
-          {
-              "isAccessibilityElement" : true,
-              "frame" : [
-                  [
-                      592,
-                      339.00003152599493
-                  ],
-                  [
-                      505,
-                      151
-                  ]
-              ],
-              "trait" : 1,
-              "adjustableOptions" : {
-                  "options" : [
-                      
-                  ],
-                  "isEnumerated" : true
-              },
-              "hint" : "",
-              "label" : "В зале",
-              "value" : "2 из 2",
-              "customActions" : {
-                  "names" : [
-                      
-                  ]
-              },
-              "customDescriptions" : {
-                  "descriptions" : [
-                      
-                  ]
-              }
-          },
-          {
-              "isAccessibilityElement" : true,
-              "frame" : [
-                  [
-                      73,
-                      339
-                  ],
-                  [
-                      501,
-                      151
-                  ]
-              ],
-              "trait" : 1,
-              "adjustableOptions" : {
-                  "options" : [
-                      
-                  ],
-                  "isEnumerated" : true
-              },
-              "hint" : "",
-              "label" : "На доставку",
-              "value" : "1 из 2",
-              "customActions" : {
-                  "names" : [
-                      
-                  ]
-              },
-              "customDescriptions" : {
-                  "descriptions" : [
-                      
-                  ]
-              }
-          }
-      ],
-      "navigationStyle" : "automatic",
-      "frame" : [
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
           [
-              53,
-              319.00003152599493
+            73,
+            339
           ],
           [
-              1064,
-              387
+            501,
+            151
           ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "На доставку",
+        "value" : "1 из 2",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            592,
+            339.00003152599493
+          ],
+          [
+            505,
+            151
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "В зале",
+        "value" : "2 из 2",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            73.000231248850469,
+            521.00011562442523
+          ],
+          [
+            1024,
+            165
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "улица Ленинская Слобода, 19",
+        "value" : "34 минуты время доставки, бесплатно",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        53,
+        319.00003152599493
       ],
-      "containerType" : "semanticGroup",
-      "label" : "Адрес заказа",
-      "type" : "container",
-      "isTabTrait" : false,
-      "isModal" : false
-      
+      [
+        1064,
+        387
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Адрес заказа",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : false
   },
   {
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        25,
-        711.00009224401674
+        24.999768751149759,
+        710.99976875115044
       ],
       [
         1121,
@@ -230,7 +229,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        24,
+        24.999768751149759,
         1137
       ],
       [
@@ -263,7 +262,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        25,
+        25.00046249770071,
         1403
       ],
       [
@@ -302,8 +301,8 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        25,
-        1884.9998738960194
+        25.00046249770071,
+        1885
       ],
       [
         1121,
@@ -344,7 +343,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        25,
+        24.99953750229929,
         2068
       ],
       [
@@ -377,7 +376,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        24,
+        24.999768751149531,
         3562
       ],
       [
@@ -394,7 +393,7 @@
     },
     "hint" : "",
     "label" : "Пицца из половинок",
-    "value" : "670 рублей. Соберите свою пиццу 35 см с двумя разными вкусами от 670 ₽",
+    "value" : "670 рублей. Соберите свою пиццу 35 см с двумя разными вкусами",
     "customActions" : {
       "names" : [
 
@@ -410,8 +409,8 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        24,
-        4013
+        25,
+        4012.9995375023
       ],
       [
         1121,
@@ -443,7 +442,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        24,
+        25,
         4770
       ],
       [
@@ -479,15 +478,15 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            887,
-            5223
+            24,
+            5223.0004624977009
           ],
           [
             258,
             187
           ]
         ],
-        "trait" : 1,
+        "trait" : 257,
         "adjustableOptions" : {
           "options" : [
 
@@ -495,40 +494,7 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Корзина",
-        "value" : "",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            599,
-            5223
-          ],
-          [
-            258,
-            187
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Контакты",
+        "label" : "Меню",
         "value" : "",
         "customActions" : {
           "names" : [
@@ -578,7 +544,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            24,
+            599,
             5223
           ],
           [
@@ -594,7 +560,40 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Меню",
+        "label" : "Контакты",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            887,
+            5223
+          ],
+          [
+            258,
+            187
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Корзина",
         "value" : "",
         "customActions" : {
           "names" : [
