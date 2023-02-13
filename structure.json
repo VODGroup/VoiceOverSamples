@@ -17,6 +17,36 @@
             "relativePath" : "En\/Dodo Pizza"
           },
           {
+            "fileSize" : 3770998,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Pizza halves",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 2808747,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Special offer",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
+            "fileSize" : 224392,
+            "version" : 1,
+            "files" : [
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Order type",
+            "relativePath" : "En\/Dodo Pizza"
+          },
+          {
             "fileSize" : 2426311,
             "version" : 1,
             "files" : [
@@ -120,7 +150,7 @@
             "relativePath" : "Ru\/Dodo Pizza"
           },
           {
-            "fileSize" : 3892397,
+            "fileSize" : 3891611,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",

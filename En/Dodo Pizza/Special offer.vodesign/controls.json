@@ -1,0 +1,122 @@
+[
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            43,
+            1845
+          ],
+          [
+            1078,
+            147
+          ]
+        ],
+        "trait" : 2,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "3-2-1 Thursday! Only Available on Thursdays! Use Code 321",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            43,
+            2006
+          ],
+          [
+            1078,
+            200
+          ]
+        ],
+        "trait" : 0,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Mega Exclusive Discount on Thursdays! Order any 3 × 10 inch Pizza's, Wedges, Garlic bread and Large drink for £20.99!!",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            43,
+            2228
+          ],
+          [
+            1078,
+            155
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Apply promo code",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        19,
+        1381
+      ],
+      [
+        1135,
+        1060
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Special offer",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : true
+  }
+]
