@@ -29,18 +29,24 @@
             "relativePath" : "En\/Dodo Pizza"
           },
           {
-            "fileSize" : 2808747,
+            "fileSize" : 2832335,
             "version" : 1,
             "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
             "name" : "Special offer",
             "relativePath" : "En\/Dodo Pizza"
           },
           {
-            "fileSize" : 224392,
+            "fileSize" : 232019,
             "version" : 1,
             "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
             "name" : "Order type",
