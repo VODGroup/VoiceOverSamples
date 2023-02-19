@@ -118,7 +118,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Enter delivery address >",
+    "label" : "Enter delivery address",
     "value" : "",
     "customActions" : {
       "names" : [
