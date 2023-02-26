@@ -3,12 +3,12 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        49,
-        256
+        8,
+        220
       ],
       [
-        202,
-        65
+        291,
+        133
       ]
     ],
     "trait" : 1,
@@ -36,12 +36,12 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        479,
-        232
+        453,
+        220
       ],
       [
-        286,
-        99
+        343,
+        133
       ]
     ],
     "trait" : 2,
@@ -70,7 +70,7 @@
     "frame" : [
       [
         1,
-        363
+        362.99995709662653
       ],
       [
         1247,
@@ -85,8 +85,8 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Цена с багажом, багаж включён в стоимость",
-    "value" : "",
+    "label" : "Цена с багажом",
+    "value" : "багаж включён в стоимость",
     "customActions" : {
       "names" : [
 
@@ -102,7 +102,7 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        -5,
+        -3,
         630
       ],
       [
@@ -138,12 +138,12 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            311,
-            967
+            302,
+            974
           ],
           [
-            311,
-            125
+            301,
+            118
           ]
         ],
         "trait" : 1,
@@ -155,7 +155,7 @@
         },
         "hint" : "",
         "label" : "1 пересадка",
-        "value" : "",
+        "value" : "2 из 2",
         "customActions" : {
           "names" : [
 
@@ -172,11 +172,11 @@
         "frame" : [
           [
             49,
-            954
+            974
           ],
           [
-            235,
-            138
+            228,
+            118
           ]
         ],
         "trait" : 257,
@@ -188,7 +188,7 @@
         },
         "hint" : "",
         "label" : "Прямые",
-        "value" : "",
+        "value" : "1 из 2",
         "customActions" : {
           "names" : [
 
@@ -225,7 +225,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            49,
+            56,
             1227
           ],
           [
@@ -269,15 +269,15 @@
         "trait" : 4,
         "adjustableOptions" : {
           "options" : [
-            "23:59",
-            "23:30"
+            "23:30",
+            "23:59"
           ],
-          "currentIndex" : 0,
+          "currentIndex" : 1,
           "isEnumerated" : false
         },
         "hint" : "",
         "label" : "Максимальное время",
-        "value" : "23:59",
+        "value" : "23:30",
         "customActions" : {
           "names" : [
 
@@ -293,7 +293,7 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            49,
+            48.999914193253062,
             1459
           ],
           [
@@ -347,12 +347,12 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        48,
-        2374
+        49,
+        2398
       ],
       [
-        1164,
-        184
+        1141,
+        144
       ]
     ],
     "trait" : 1,
