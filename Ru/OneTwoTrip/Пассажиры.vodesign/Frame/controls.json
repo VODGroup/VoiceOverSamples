@@ -1,0 +1,237 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -1,
+        -89.000028192831849
+      ],
+      [
+        377,
+        409
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Закрыть",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        10,
+        341
+      ],
+      [
+        355,
+        42
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Пассажиры",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        10,
+        392
+      ],
+      [
+        355,
+        49
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Взрослые от 12 лет",
+    "value" : "1",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        10.000056385663754,
+        457
+      ],
+      [
+        355,
+        40
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Ребёнок до года",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        9.9999436143362459,
+        499
+      ],
+      [
+        355,
+        41
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Ребёнок 11 лет",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+        "Удалить"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        10,
+        543
+      ],
+      [
+        355,
+        34
+      ]
+    ],
+    "trait" : 17,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Добавить ребёнка",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        10,
+        596
+      ],
+      [
+        355,
+        62
+      ]
+    ],
+    "trait" : 17,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "ПРИМЕНИТЬ",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]

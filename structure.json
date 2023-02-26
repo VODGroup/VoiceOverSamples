@@ -156,7 +156,7 @@
             "relativePath" : "Ru\/Dodo Pizza"
           },
           {
-            "fileSize" : 3651268,
+            "fileSize" : 3651270,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -221,7 +221,7 @@
         "name" : "OneTwoTrip",
         "documents" : [
           {
-            "fileSize" : 2217675,
+            "fileSize" : 2216017,
             "version" : 1,
             "files" : [
               "Frame\/controls.json",
@@ -229,7 +229,31 @@
               "Frame\/info.json",
               "QuickView\/Preview.heic"
             ],
-            "name" : "Home",
+            "name" : "Главная страница",
+            "relativePath" : "Ru\/OneTwoTrip"
+          },
+          {
+            "fileSize" : 163998,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Пассажиры",
+            "relativePath" : "Ru\/OneTwoTrip"
+          },
+          {
+            "fileSize" : 284199,
+            "version" : 1,
+            "files" : [
+              "Frame\/controls.json",
+              "Frame\/screen.png",
+              "Frame\/info.json",
+              "QuickView\/Preview.heic"
+            ],
+            "name" : "Авиа фильтры",
             "relativePath" : "Ru\/OneTwoTrip"
           }
         ]
