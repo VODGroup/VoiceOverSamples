@@ -3,312 +3,12 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        43,
-        100
+        445,
+        149
       ],
       [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Авиабилеты",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        144,
-        100
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Отели",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        242,
-        100
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Ж\/д билеты",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        6,
-        189
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Автобусы",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        105,
-        189
-      ],
-      [
-        81,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Аренда авто",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        197,
-        189
-      ],
-      [
-        71,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Экскурсии",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        277,
-        189
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Сертификат",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        16,
-        278
-      ],
-      [
-        342,
-        90
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Карта с большим кэшбэком",
-    "value" : "Выпустите за 1 минуту",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        15,
-        377
-      ],
-      [
-        346,
-        151
-      ]
-    ],
-    "trait" : 20,
-    "adjustableOptions" : {
-      "options" : [
-        "Авантюра: 48 городов за 25000 рублей",
-        "В Париж за 1 трипкоин",
-        "Топ 5 экскурсий по крышам"
-      ],
-      "currentIndex" : 0,
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Истории",
-    "value" : "Авантюра: 48",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        16,
-        536
-      ],
-      [
-        348,
-        38
+        294,
+        119
       ]
     ],
     "trait" : 2,
@@ -319,7 +19,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Предложения",
+    "label" : "Basket",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -336,15 +36,15 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        20.125,
-        574
+        44,
+        311
       ],
       [
-        342,
-        75
+        1078,
+        111
       ]
     ],
-    "trait" : 1,
+    "trait" : 2,
     "adjustableOptions" : {
       "options" : [
 
@@ -352,7 +52,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Подарочный сертификат на любые путешествия",
+    "label" : "3 items at the price of £23.97",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -369,24 +69,27 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        17,
-        654
+        -4,
+        449
       ],
       [
-        348,
-        86
+        1173,
+        460
       ]
     ],
-    "trait" : 1,
+    "trait" : 20,
     "adjustableOptions" : {
       "options" : [
-
+        "1, £10",
+        "2, £20",
+        "3, £30"
       ],
-      "isEnumerated" : true
+      "currentIndex" : 0,
+      "isEnumerated" : false
     },
     "hint" : "",
-    "label" : "Вернём 15% за бронирование отеля ",
-    "value" : "По «Карте с большим кэшбэком»",
+    "label" : "Margherita, Medium, original crust",
+    "value" : "Medium, original crust £ Any pizzas & a side for £12.99. Collection only",
     "customActions" : {
       "names" : [
 
@@ -394,7 +97,11 @@
     },
     "customDescriptions" : {
       "descriptions" : [
-
+        {
+          "id" : "2BEF4772-41D4-451B-B1D7-8A73ED731AF3",
+          "label" : "Discount",
+          "value" : "£2.99 out of 12.99"
+        }
       ]
     }
   },
@@ -402,58 +109,233 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        16,
-        743
+        -4,
+        943
       ],
       [
-        349,
-        72
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Гарантия лучшей цены",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        18,
-        827
-      ],
-      [
-        346,
-        249
+        1173,
+        458
       ]
     ],
     "trait" : 4,
     "adjustableOptions" : {
       "options" : [
-        "Сервис, Куда поехать, Посмотреть открытые направления",
-        "Сервис, Хочу на море, Подберём курорты по вашим запросам"
+        "£2.99",
+        "£5.98",
+        "§ Any pizzas & a side for £12.99. Collection only"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Rosti Bites (veg), 250 g",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "CAEFE388-F68A-4F84-8D9E-41BC7507C51F",
+          "label" : "Discount",
+          "value" : "£1.5 out of 4.49"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -3,
+        1422
+      ],
+      [
+        1172,
+        470
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "1, £6.49",
+        "2, £12.98"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : false
+    },
+    "hint" : "",
+    "label" : "Classic wings",
+    "value" : "1, £6.49",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        181,
+        1968
+      ],
+      [
+        804,
+        150
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Apply promo-code",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        2,
+        2168
+      ],
+      [
+        1176,
+        531
+      ]
+    ],
+    "trait" : 5,
+    "adjustableOptions" : {
+      "options" : [
+        "Dips",
+        "Garlic Bread, £5.49",
+        "Coca-Cola, £2.49"
       ],
       "currentIndex" : 0,
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Проекты",
+    "label" : "Add to your order?",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -1,
+        2706
+      ],
+      [
+        1167,
+        104
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "3 items £23.97",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -1,
+        2827
+      ],
+      [
+        1167,
+        104
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Discounts -£4.49",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        44,
+        2979
+      ],
+      [
+        1078,
+        156
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Proceed to Checkout for £19.48",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -473,12 +355,111 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            6,
-            1084
+            43.999834436702031,
+            3181
           ],
           [
-            62,
-            46
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Menu",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            332,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Profile",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            626,
+            3181
+          ],
+          [
+            211,
+            177
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Contact",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            923,
+            3181
+          ],
+          [
+            211,
+            177
           ]
         ],
         "trait" : 257,
@@ -489,140 +470,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Главная",
-        "value" : "1 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            72,
-            1084
-          ],
-          [
-            82,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Уведомления",
-        "value" : "2 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            160,
-            1084
-          ],
-          [
-            62,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Заказы",
-        "value" : "3 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            230,
-            1084
-          ],
-          [
-            71,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Поддержка",
-        "value" : "4 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            306,
-            1084
-          ],
-          [
-            64,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Профиль",
-        "value" : "5 из 5",
+        "label" : "Basket",
+        "value" : "3",
         "customActions" : {
           "names" : [
 
@@ -638,16 +487,16 @@
     "navigationStyle" : "automatic",
     "frame" : [
       [
-        -12.00004784750476,
-        1064.0000956950096
+        23.999834436702031,
+        3161
       ],
       [
-        404,
-        86
+        1130.000165563298,
+        217
       ]
     ],
     "containerType" : "semanticGroup",
-    "label" : "Вкладки",
+    "label" : "Tabs",
     "type" : "container",
     "isTabTrait" : true,
     "isModal" : false

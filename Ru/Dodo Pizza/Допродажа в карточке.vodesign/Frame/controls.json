@@ -1,0 +1,291 @@
+[
+  {
+    "isEnumerated" : false,
+    "elements" : [
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            45,
+            921
+          ],
+          [
+            1080,
+            105
+          ]
+        ],
+        "trait" : 2,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Что-нибудь ещё?",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            45,
+            1051.9998929771359
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Картофель из печи",
+        "value" : "99 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            414,
+            1052
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Сырный соус",
+        "value" : "40 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            777,
+            1051.9999055372764
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Додстер",
+        "value" : "169 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            45,
+            1623
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 257,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Барбекю",
+        "value" : "40 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            414,
+            1623
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Морс Клюква 125 ₽",
+        "value" : "125 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            777.00018892544699,
+            1623
+          ],
+          [
+            348,
+            542
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Салат Цезарь",
+        "value" : "209 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            44.999811074553236,
+            2223
+          ],
+          [
+            1080,
+            170
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "В корзину за 209 ₽",
+        "value" : "",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+            {
+              "id" : "E7AB10FD-5882-47ED-9F39-D43D78E443B1",
+              "label" : "Добавлено",
+              "value" : "Додстер, Барбекю"
+            }
+          ]
+        }
+      }
+    ],
+    "navigationStyle" : "automatic",
+    "frame" : [
+      [
+        -25,
+        833.00010702286409
+      ],
+      [
+        1226,
+        1744
+      ]
+    ],
+    "containerType" : "semanticGroup",
+    "label" : "Container",
+    "type" : "container",
+    "isTabTrait" : false,
+    "isModal" : true
+  }
+]

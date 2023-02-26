@@ -1,0 +1,183 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        129
+      ],
+      [
+        266,
+        146
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Menu",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        296,
+        129
+      ],
+      [
+        602,
+        146
+      ]
+    ],
+    "trait" : 2,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Half & Half pizza, large",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        5,
+        283
+      ],
+      [
+        575,
+        1858
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Vegan Overlord £8.99",
+        "4 Cheese £8.99",
+        "Chicken BBQ £8.99",
+        "Chicken Hot £8.99",
+        "Hawaiian £8.99",
+        "The Mighty Meats £8.99",
+        "Veggie Overlord £8.99",
+        "Veggie Hot £8.99"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Left half",
+    "value" : "Vegan Overlord £8.99",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        588,
+        283.00003658641481
+      ],
+      [
+        575,
+        1858
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Vegan Overlord £8.99",
+        "4 Cheese £8.99",
+        "Chicken BBQ £8.99",
+        "Chicken Hot £8.99",
+        "Hawaiian £8.99",
+        "The Mighty Meats £8.99",
+        "Veggie Overlord £8.99",
+        "Veggie Hot £8.99"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Right half",
+    "value" : "Vegan Overlord £8.99",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        46,
+        2283
+      ],
+      [
+        1079,
+        151
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Create pizza",
+    "value" : "£17.98",
+    "customActions" : {
+      "names" : [
+        "Randomize"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]

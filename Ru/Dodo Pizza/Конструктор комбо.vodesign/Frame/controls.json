@@ -1,0 +1,134 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        130,
+        313
+      ],
+      [
+        908,
+        1910
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Ветчина и грибы, +60 рублей",
+    "value" : "5 из 28",
+    "customActions" : {
+      "names" : [
+        "Закрыть",
+        "Изменить состав",
+        "Пищевая ценность"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "F19923E9-37DF-41E3-AEAF-366F496E555F",
+          "label" : "Состав",
+          "value" : "Ветчина, шампиньоны, увеличенная порция моцареллы, фирменный томатный соус"
+        },
+        {
+          "id" : "BA87D707-F72A-4D05-8A22-F6699FA826E3",
+          "label" : "Размер",
+          "value" : "Маленькая 25 сантиметров, традиционное тесто, 410 грамм"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        -842,
+        313
+      ],
+      [
+        908,
+        1910
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Бургер-пицца",
+    "value" : "4 из 28",
+    "customActions" : {
+      "names" : [
+        "Закрыть",
+        "Изменить состав",
+        "Пищевая ценность"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "6BBB95E2-4B6E-43B5-92A9-8DD9DEA4209E",
+          "label" : "Состав",
+          "value" : "Ветчина, маринованные огурчики, томаты, красный лук, чеснок, соус бургкер, моцарелла, фирменный томатный соус"
+        },
+        {
+          "id" : "5B9E4654-BBEE-4DD6-A75C-038EE599E96B",
+          "label" : "Размер",
+          "value" : "Маленькая 25 сантиметров, традиционное тесто, 410 грамм"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        1101,
+        313
+      ],
+      [
+        908,
+        1910
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Гавайская",
+    "value" : "6 из 28",
+    "customActions" : {
+      "names" : [
+        "Закрыть",
+        "Изменить состав",
+        "Пищевая ценность"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "039F2B39-4A1A-491A-A3CC-25D96F526A03",
+          "label" : "Состав",
+          "value" : "Ветчина, ананасы, моцарелла, фирменный томатный соус"
+        },
+        {
+          "id" : "231830AB-A8B8-4E4A-981F-2F52BFC0D0E3",
+          "label" : "Размер",
+          "value" : "Маленькая 25 сантиметров, традиционное тесто, 410 грамм"
+        }
+      ]
+    }
+  }
+]

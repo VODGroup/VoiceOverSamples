@@ -3,312 +3,111 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        43,
+        0,
+        101
+      ],
+      [
+        247,
+        234
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Закрыть",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        920,
+        101
+      ],
+      [
+        247,
+        234
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Перейти в корзину",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        15.999861232154672,
+        63.000069383922892
+      ],
+      [
+        1136,
+        1034
+      ]
+    ],
+    "trait" : 32,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Изображение пиццы",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        41,
+        1104
+      ],
+      [
+        956,
         100
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Авиабилеты",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        144,
-        100
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Отели",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        242,
-        100
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Ж\/д билеты",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        6,
-        189
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Автобусы",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        105,
-        189
-      ],
-      [
-        81,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Аренда авто",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        197,
-        189
-      ],
-      [
-        71,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Экскурсии",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        277,
-        189
-      ],
-      [
-        93,
-        81
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Сертификат",
-    "value" : "",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        16,
-        278
-      ],
-      [
-        342,
-        90
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Карта с большим кэшбэком",
-    "value" : "Выпустите за 1 минуту",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        15,
-        377
-      ],
-      [
-        346,
-        151
-      ]
-    ],
-    "trait" : 20,
-    "adjustableOptions" : {
-      "options" : [
-        "Авантюра: 48 городов за 25000 рублей",
-        "В Париж за 1 трипкоин",
-        "Топ 5 экскурсий по крышам"
-      ],
-      "currentIndex" : 0,
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Истории",
-    "value" : "Авантюра: 48",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        16,
-        536
-      ],
-      [
-        348,
-        38
       ]
     ],
     "trait" : 2,
@@ -319,7 +118,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Предложения",
+    "label" : "Деревенская с бужениной",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -336,15 +135,15 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        20.125,
-        574
+        1008,
+        1104
       ],
       [
-        342,
-        75
+        144,
+        100
       ]
     ],
-    "trait" : 1,
+    "trait" : 0,
     "adjustableOptions" : {
       "options" : [
 
@@ -352,7 +151,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Подарочный сертификат на любые путешествия",
+    "label" : "Пищевая ценность",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -369,15 +168,15 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        17,
-        654
+        41,
+        1205
       ],
       [
-        348,
-        86
+        956,
+        57
       ]
     ],
-    "trait" : 1,
+    "trait" : 0,
     "adjustableOptions" : {
       "options" : [
 
@@ -385,40 +184,7 @@
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Вернём 15% за бронирование отеля ",
-    "value" : "По «Карте с большим кэшбэком»",
-    "customActions" : {
-      "names" : [
-
-      ]
-    },
-    "customDescriptions" : {
-      "descriptions" : [
-
-      ]
-    }
-  },
-  {
-    "isAccessibilityElement" : true,
-    "frame" : [
-      [
-        16,
-        743
-      ],
-      [
-        349,
-        72
-      ]
-    ],
-    "trait" : 1,
-    "adjustableOptions" : {
-      "options" : [
-
-      ],
-      "isEnumerated" : true
-    },
-    "hint" : "",
-    "label" : "Гарантия лучшей цены",
+    "label" : "Средняя 30 сантиметров, традиционное тесто, 710 грамм",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -435,25 +201,127 @@
     "isAccessibilityElement" : true,
     "frame" : [
       [
-        18,
-        827
+        41,
+        1268
       ],
       [
-        346,
-        249
+        1077,
+        241
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Запеченная буженина из свинины, моцарелла, картофель из печи, маринованные огурчики, красный лук, чеснок, фирменный томатный соус, соус ранч",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        41,
+        1510
+      ],
+      [
+        1077,
+        96
+      ]
+    ],
+    "trait" : 1,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Убрать ингредиенты",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        46,
+        1634.0001387678453
+      ],
+      [
+        1077,
+        152
       ]
     ],
     "trait" : 4,
     "adjustableOptions" : {
       "options" : [
-        "Сервис, Куда поехать, Посмотреть открытые направления",
-        "Сервис, Хочу на море, Подберём курорты по вашим запросам"
+        "Маленькая",
+        "Средняя",
+        "Большая"
       ],
       "currentIndex" : 0,
       "isEnumerated" : true
     },
     "hint" : "",
-    "label" : "Проекты",
+    "label" : "Размер",
+    "value" : "Маленькая",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        41,
+        1797
+      ],
+      [
+        1077,
+        147
+      ]
+    ],
+    "trait" : 4,
+    "adjustableOptions" : {
+      "options" : [
+        "Традиционное",
+        "Тонкое"
+      ],
+      "currentIndex" : 0,
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "Тесто",
     "value" : "",
     "customActions" : {
       "names" : [
@@ -473,12 +341,78 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            6,
-            1084
+            57,
+            2075
           ],
           [
-            62,
-            46
+            344,
+            503
+          ]
+        ],
+        "trait" : 513,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Сырный бортик",
+        "value" : "179 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            413,
+            2075
+          ],
+          [
+            344,
+            503
+          ]
+        ],
+        "trait" : 1,
+        "adjustableOptions" : {
+          "options" : [
+
+          ],
+          "isEnumerated" : true
+        },
+        "hint" : "",
+        "label" : "Сливочная моцарелла",
+        "value" : "79 рублей",
+        "customActions" : {
+          "names" : [
+
+          ]
+        },
+        "customDescriptions" : {
+          "descriptions" : [
+
+          ]
+        }
+      },
+      {
+        "isAccessibilityElement" : true,
+        "frame" : [
+          [
+            768,
+            2075
+          ],
+          [
+            344,
+            503
           ]
         ],
         "trait" : 257,
@@ -489,8 +423,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Главная",
-        "value" : "1 из 5",
+        "label" : "Чеддер и пармезан",
+        "value" : "79 рублей",
         "customActions" : {
           "names" : [
 
@@ -506,12 +440,12 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            72,
-            1084
+            57,
+            2590
           ],
           [
-            82,
-            46
+            344,
+            503
           ]
         ],
         "trait" : 1,
@@ -522,8 +456,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Уведомления",
-        "value" : "2 из 5",
+        "label" : "Острый халапеньо",
+        "value" : "59 рублей",
         "customActions" : {
           "names" : [
 
@@ -539,12 +473,12 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            160,
-            1084
+            412,
+            2590
           ],
           [
-            62,
-            46
+            344,
+            503
           ]
         ],
         "trait" : 1,
@@ -555,8 +489,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Заказы",
-        "value" : "3 из 5",
+        "label" : "Пикантная пепперони",
+        "value" : "79 рублей",
         "customActions" : {
           "names" : [
 
@@ -572,12 +506,12 @@
         "isAccessibilityElement" : true,
         "frame" : [
           [
-            230,
-            1084
+            768,
+            2590
           ],
           [
-            71,
-            46
+            344,
+            503
           ]
         ],
         "trait" : 1,
@@ -588,41 +522,8 @@
           "isEnumerated" : true
         },
         "hint" : "",
-        "label" : "Поддержка",
-        "value" : "4 из 5",
-        "customActions" : {
-          "names" : [
-
-          ]
-        },
-        "customDescriptions" : {
-          "descriptions" : [
-
-          ]
-        }
-      },
-      {
-        "isAccessibilityElement" : true,
-        "frame" : [
-          [
-            306,
-            1084
-          ],
-          [
-            64,
-            46
-          ]
-        ],
-        "trait" : 1,
-        "adjustableOptions" : {
-          "options" : [
-
-          ],
-          "isEnumerated" : true
-        },
-        "hint" : "",
-        "label" : "Профиль",
-        "value" : "5 из 5",
+        "label" : "Ветчина",
+        "value" : "79 рублей",
         "customActions" : {
           "names" : [
 
@@ -638,18 +539,55 @@
     "navigationStyle" : "automatic",
     "frame" : [
       [
-        -12.00004784750476,
-        1064.0000956950096
+        35,
+        1960
       ],
       [
-        404,
-        86
+        1097,
+        1153
       ]
     ],
     "containerType" : "semanticGroup",
-    "label" : "Вкладки",
+    "label" : "Добавить по вкусу",
     "type" : "container",
-    "isTabTrait" : true,
+    "isTabTrait" : false,
     "isModal" : false
+  },
+  {
+    "isAccessibilityElement" : true,
+    "frame" : [
+      [
+        50.000138767845328,
+        3134
+      ],
+      [
+        1069,
+        185
+      ]
+    ],
+    "trait" : 0,
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "hint" : "",
+    "label" : "В корзину за 558 рублей",
+    "value" : "",
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "FD7455E8-DDE1-4BD9-A7AA-09B9A04375A7",
+          "label" : "Добавили",
+          "value" : "Чеддер и пармезан"
+        }
+      ]
+    }
   }
 ]
