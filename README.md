@@ -1,6 +1,6 @@
 # `.vodesign` samples
 
-<img width="912" alt="Screenshot 2023-02-05 at 17 02 03" src="https://user-images.githubusercontent.com/3120680/216817742-b675fc28-e0f1-408e-99eb-23db34606904.png">
+![Samples-Dark](https://user-images.githubusercontent.com/3120680/221409018-4899aa96-4a33-4de0-a2bf-a45536239dd5.png)
 
 The repository contains sampes of accessible layouts for VoiceOver Designer app. This samples are shown right in the app, so we have some rules for contributors
 
