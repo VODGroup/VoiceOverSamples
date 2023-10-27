@@ -1,0 +1,311 @@
+[
+  {
+    "isAccessibilityElement" : true,
+    "id" : "E8CEFEF1-74CB-48AB-980B-30132CAE6AA8",
+    "trait" : 1,
+    "frame" : [
+      [
+        22,
+        156
+      ],
+      [
+        124,
+        127
+      ]
+    ],
+    "hint" : "",
+    "label" : "Назад",
+    "value" : "",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "B8559F7F-1318-4E80-AD9D-BB53A37F6584",
+    "trait" : 3,
+    "frame" : [
+      [
+        178,
+        151
+      ],
+      [
+        837,
+        154
+      ]
+    ],
+    "hint" : "",
+    "label" : "Москва - Ростов-на-Дону",
+    "value" : "27 октября, 1 взрослый",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "AD484BA7-D700-4140-99DE-A31CEE7E5FC9",
+    "trait" : 1,
+    "frame" : [
+      [
+        1041,
+        176
+      ],
+      [
+        115,
+        107
+      ]
+    ],
+    "hint" : "",
+    "label" : "Сортировать",
+    "value" : "",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "D5DA4855-431B-48FE-9328-08DE5B7ADC4A",
+    "trait" : 4,
+    "frame" : [
+      [
+        7,
+        283
+      ],
+      [
+        1169,
+        254
+      ]
+    ],
+    "hint" : "",
+    "label" : "Календарь дат",
+    "value" : "28 октября, суббота 1,330 Российских рубле",
+    "adjustableOptions" : {
+      "options" : [
+        "26 октября, четверг 1,330 рублей",
+        "27 октября, пятница 1,330 рублей",
+        "28 октября, суббота 1,330 рублей"
+      ],
+      "currentIndex" : 1,
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "1662BD78-A122-4A21-8ACF-E73BCB35986D",
+    "trait" : 1,
+    "frame" : [
+      [
+        49,
+        530
+      ],
+      [
+        1095,
+        758
+      ]
+    ],
+    "hint" : "",
+    "label" : "27 октября, 9:00, 27 октября, 23:00, Автостанция Новоясеневская, Новоясеневский тупик, д.4, Автовокзал Главный, пр. Сиверса 1",
+    "value" : "3,976.00 рублей",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+        "Показать станции на карте"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "3815B8C6-AA80-481C-84D8-416A5F45D08B",
+          "label" : "Места",
+          "value" : "7"
+        },
+        {
+          "id" : "5284ED77-30BF-430E-B6F2-409F811D120A",
+          "label" : "Перевозчик",
+          "value" : "ООО \"Большой Мир\""
+        },
+        {
+          "id" : "4C303A41-23AB-49F4-BEC1-CB36F7E652C8",
+          "label" : "в пути",
+          "value" : "14 часов"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "F1A5FD93-4452-42ED-9158-63B1A841EE8B",
+    "trait" : 1,
+    "frame" : [
+      [
+        49,
+        1339.6122572815534
+      ],
+      [
+        1095,
+        758
+      ]
+    ],
+    "hint" : "",
+    "label" : "27 октября, 9:00, 27 октября, 22:30, Автостанция Новоясеневская, Новоясеневский тупик, д.4, просп. Сиверса, 1",
+    "value" : "3,324.00 рублей",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+        "Показать станции на карте",
+        "Показать удобства"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+        {
+          "id" : "34AFD56B-8AC1-421A-91E2-F15DEA40A267",
+          "label" : "Места",
+          "value" : "7"
+        },
+        {
+          "id" : "A421EA4A-2E05-431F-ACBD-8F9325A27BA9",
+          "label" : "Перевозчик",
+          "value" : "Крымские Перевозки"
+        },
+        {
+          "id" : "1E345686-1CF0-4DA0-965F-2B42B5D07267",
+          "label" : "в пути",
+          "value" : "13 часов 30 минут"
+        },
+        {
+          "id" : "CE54E606-C69D-4BB0-B57E-4D07C5863B2E",
+          "label" : "Удобства",
+          "value" : "Телевизор, откидные спинки"
+        }
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "9809F80A-8879-481C-93BB-58239A768232",
+    "trait" : 1,
+    "frame" : [
+      [
+        44,
+        2168
+      ],
+      [
+        1095,
+        758
+      ]
+    ],
+    "hint" : "",
+    "label" : "27 октября, 9:00, 27 октября, 23:00, Автостанция Новоясеневская, Новоясеневский тупик, д.4, Ростов-на-Дону",
+    "value" : "2,839.00 рублей",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+        "Показать станции на карте"
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  },
+  {
+    "isAccessibilityElement" : true,
+    "id" : "14968E04-CB09-480B-B11F-1B9EFA49D7A6",
+    "trait" : 1,
+    "frame" : [
+      [
+        401,
+        2332
+      ],
+      [
+        379,
+        133
+      ]
+    ],
+    "hint" : "",
+    "label" : "Фильтры",
+    "value" : "",
+    "adjustableOptions" : {
+      "options" : [
+
+      ],
+      "isEnumerated" : true
+    },
+    "customActions" : {
+      "names" : [
+
+      ]
+    },
+    "customDescriptions" : {
+      "descriptions" : [
+
+      ]
+    }
+  }
+]
